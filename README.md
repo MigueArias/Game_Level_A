@@ -11,5 +11,5 @@ Del curso de Platzi con ajustes propios
 
 ## Demo
 
-Insert gif or link to demo
+https://miguearias.github.io/Game_Level_A/
 
